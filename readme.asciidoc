@@ -1,0 +1,46 @@
+Offcourse Styleguide
+====================
+Author Name <yeehaa@offcourse.io>
+v1.0, 2015-30-11
+
+== Grid
+30x30px divided in 10x10px (divided in 5x5px) = same padding
+
+== Typography
+|====
+|Titles          |font-size 28px / lineheight 30px |Nitti Bold
+|Unacademic logo |22px/30px                        |Nitti Bold
+|Copy/Body       |16px/2opx                        |Nitti Grotesk Regular
+|Subheads        |16px/2opx                        |Nitti Bold 
+|Small           |12px/20px                        |Nitti Grotesk
+|====
+
+Titles, headlines, tags always Capitalised
+
+Bigger sizes: 16 - 22 - 28 - 34 - 40 - 48 - …+6
+
+== Colors
+|====
+|Black       |#000000
+|White       |#FFFFFF
+|Darkgray    |#3d3d3d
+|Mediumgray  |#c0c4c1
+|Lightgray   |#f4f6f4
+|Yellow      |#E5CF39
+|Green       |#A5CC45
+|Blue        |#75C7B3
+|Red         |#E34D2F
+|====
+
+== Bars
+|====
+|30px height 
+|45px height
+|60px height
+|====
+Width 100% / 50% / 33%
+
+== Interaction
+* Cards stick to top, when filters appear they move down. Modus selections bottom aligns always with bottom images.
+* When hovering a card, card folds out
+* When hovering buttons they turn diapositive
